@@ -1,4 +1,6 @@
 
+[![Build Status](https://tiagorc.visualstudio.com/SpaceGame/_apis/build/status/tiagordc.mslearn-tailspin-spacegame-web?branchName=master)](https://tiagorc.visualstudio.com/SpaceGame/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
